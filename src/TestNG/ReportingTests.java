@@ -22,7 +22,6 @@ public void TestCase2(){
 @Test
 public void TestCase3(){
 	System.out.println("Test Case 3");
-	throw new SkipException("Skipped TC 3");
 }
 
 @Test
